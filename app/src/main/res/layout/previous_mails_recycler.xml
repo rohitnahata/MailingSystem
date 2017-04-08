@@ -65,7 +65,7 @@
                 android:layout_below="@id/recipientText"
                 android:layout_toEndOf="@+id/nameImage"
                 android:maxLines="1"
-                android:paddingEnd="20sp" />
+                android:paddingEnd="20dp" />
 
             <TextView
                 android:id="@+id/bodyText"
